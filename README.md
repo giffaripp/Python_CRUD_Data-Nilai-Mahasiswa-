@@ -1,6 +1,4 @@
-# Python_CRUD_Data-Nilai-Mahasiswa-
-
-# Python CRUD Application for 
+# Python_CRUD_Data-Nilai-Mahasiswa
 
 A comprehensive Python application for managing students final score data in accounting subject with Create, Read, Update, and Delete (CRUD) operations.
 
